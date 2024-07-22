@@ -1,7 +1,8 @@
 Vrinda Store Sales Analysis
 
-About -
+About -<br>
 Excel Data Analysis Project utilizing ETL procedures, Data Visualization, and producing insights that can be put to use for the Vrinda Store. 
+
 Objective: Analyze Vrinda Store's online sales data to prepare the 2023 annual report, providing business insights and supporting expansion planning.
 
 Tool Used: Microsoft Excel
