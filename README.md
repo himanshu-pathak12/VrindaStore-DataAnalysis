@@ -1,5 +1,7 @@
 <h1>Vrinda Store Sales Analysis </h1> 
 
+![Vrinda Store Report](https://github.com/himanshu-pathak12/VrindaStore-DataAnalysis/blob/main/dashboard.png)
+
 ## **About -**  
 Excel Data Analysis Project utilizing ETL procedures, Data Visualization, and producing insights that can be put to use for the Vrinda Store. 
 
