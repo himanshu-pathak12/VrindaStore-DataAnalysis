@@ -40,9 +40,9 @@ Analyze Vrinda Store's online sales data to prepare the 2023 annual report, prov
 
 👥 Demographic Insights: Discovered that adults aged 30-40 contribute the most to sales, offering a clear understanding of customer behaviour and preferences.
 
-🛒 Platform Performance Analysis: Analysed performance metrics of Amazon, Flipkart, and Myntra, revealing these as the top contributing eCommerce channels.
+🛒 Platform Performance Analysis: Analysed performance metrics of Amazon, Flipkart, and Myntra, revealing these as the top contributing e-Commerce channels.
 
-🔄 Interactive Slicers: Implemented slicers for months, product categories, and eCommerce platforms, enabling real-time data segmentation and exploration.
+🔄 Interactive Slicers: Implemented slicers for months, product categories, and e-Commerce platforms, enabling real-time data segmentation and exploration.
 
 
 ## **Final Conclusion -**
